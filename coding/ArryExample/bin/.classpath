@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Week7Example/src/|Week9Example/src/|Week6/src/|ArryExample/src/|HomePractice/src/|Week4Example/src/|Week5Examples/src/|Week8Example/src/|Week10Example/src/|Week2Example/src/|Project/src/" kind="src" path=""/>
+	<classpathentry kind="src" path="ArryExample/src"/>
+	<classpathentry kind="src" path="HomePractice/src"/>
+	<classpathentry kind="src" path="Project/src"/>
+	<classpathentry kind="src" path="Week10Example/src"/>
+	<classpathentry kind="src" path="Week2Example/src"/>
+	<classpathentry kind="src" path="Week4Example/src"/>
+	<classpathentry kind="src" path="Week5Examples/src"/>
+	<classpathentry kind="src" path="Week6/src"/>
+	<classpathentry kind="src" path="Week7Example/src"/>
+	<classpathentry kind="src" path="Week8Example/src"/>
+	<classpathentry kind="src" path="Week9Example/src"/>
+	<classpathentry kind="output" path="ArryExample/bin"/>
+</classpath>
